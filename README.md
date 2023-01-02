@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, Redux
 - 📫 Reach me at https://www.linkedin.com/in/tanaytadas
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanaytadas16)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanaytadas16&theme=highcontrast)](https://git.io/streak-stats)
 
 <!---
 tanaytadas16/tanaytadas16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
