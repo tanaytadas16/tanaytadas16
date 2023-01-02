@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanay
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, Redux
+- 🌱 I’m currently learning TypeScript, NextJS
 - 📫 Reach me at https://www.linkedin.com/in/tanaytadas
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tanaytadas16&theme=highcontrast)](https://git.io/streak-stats)
