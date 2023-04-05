@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning TypeScript, NextJS
 - 📫 Reach me at https://www.linkedin.com/in/tanaytadas
 
+<div align='center'> <img src="https://komarev.com/ghpvc/?username=tanaytadas16&label=Profile%20views&color=0e75b6&style=flat" alt="zaidsheriff786" /> </div>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tanaytadas16&theme=highcontrast)](https://git.io/streak-stats)
 
 <!---
