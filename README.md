@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanay
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning TypeScript, NextJS
+- 👀 I’m Experienced in Web Development and Full Stack Development
+- 🌱 I’m currently learning NextJS
 - 📫 Reach me at https://www.linkedin.com/in/tanaytadas
 
 Portfolio- https://tanay-tadas.netlify.app/
