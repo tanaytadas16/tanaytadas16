@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Tanay
 - 👀 I’m Experienced in Web Development and Full Stack Development
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Go, NuxtJS
 - 📫 Reach me at https://www.linkedin.com/in/tanaytadas
 
-Portfolio- https://tanay-tadas.netlify.app/
+Portfolio- https://tanay.engineer
 
 <div align='center'> <img src="https://komarev.com/ghpvc/?username=tanaytadas16&label=Profile%20views&color=0e75b6&style=flat" alt="zaidsheriff786" /> </div>
 
