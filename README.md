@@ -7,7 +7,6 @@ Portfolio- https://tanay.engineer
 
 <div align='center'> <img src="https://komarev.com/ghpvc/?username=tanaytadas16&label=Profile%20views&color=0e75b6&style=flat" alt="zaidsheriff786" /> </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanaytadas16&theme=highcontrast)](https://git.io/streak-stats)
 
 <!---
 tanaytadas16/tanaytadas16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
